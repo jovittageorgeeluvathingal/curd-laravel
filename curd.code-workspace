@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "curd-laravel",
+			"path": "curd-laravel"
+		}
+	],
+	"settings": {}
+}
